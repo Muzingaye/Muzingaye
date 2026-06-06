@@ -1,16 +1,15 @@
-## Hi there 👋
+I'm a Software Developer with experience building applications and automation solutions using:
 
-<!--
-**Muzingaye/Muzingaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🐍 Python
+- ⚡ C#
+- 🌐 TypeScript
+- 🗄️ SQL
 
-Here are some ideas to get you started:
+I enjoy solving complex problems, designing maintainable systems, and creating software that delivers real business value.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm currently focused on
+- Backend development
+- API design and integration
+- Database optimization
+- Automation and productivity tools
+
