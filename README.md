@@ -13,3 +13,12 @@ I enjoy solving complex problems, designing maintainable systems, and creating s
 - Database optimization
 - Automation and productivity tools
 
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Muzingaye&theme=radical&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+
