@@ -22,3 +22,14 @@ I enjoy solving complex problems, designing maintainable systems, and creating s
     width="600"
   />
 </p>
+
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Muzingaye&show_icons=true&show=prs_merged_percentage&theme=radical&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzingaye&layout=compact&theme=radical&hide_border=true"/>
+
+</div>
+
