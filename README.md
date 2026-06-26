@@ -15,10 +15,10 @@ I enjoy solving complex problems, designing maintainable systems, and creating s
 
 ## 🔥 GitHub Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Muzingaye&theme=radical&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
-
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Muzingaye&theme=radical&hide_border=true"
+    alt="GitHub Streak"
+    width="600"
+  />
+</p>
